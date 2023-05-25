@@ -119,3 +119,22 @@ The following routes are available in this Laravel project:
 * PUT `/employees/{id}` - Update a specific employee
 * DELETE `/employees/{id}` - Delete a specific employee
 * GET `/departments` - Retrieve all departments
+
+## Time spent on each module
+* Project Setup: 10 minutes
+* Database Migration and Seeding: 20 minutes
+* Importing Employees: 30 minutes
+* Implementing Routes: 15 minutes
+* API Controllers: 1 hours 30 minutes
+* Vue.js Integration: 2 hours
+* Styling and UI: 20 hours
+* Testing and Debugging: 30 minutes
+* Documentation: 30 minutes
+
+Total Time Spent: 6 hours
+
+## Additional Information
+For more information about Laravel and Vue.js, please refer to the official documentation:
+
+* Laravel: https://laravel.com/docs
+* Vue.js: https://vuejs.org/
