@@ -1,0 +1,12 @@
+<employees>
+    <employee>
+        <full_name>John Doe Form XML</full_name>
+        <date_of_birth>1990-01-01</date_of_birth>
+        <department>IT</department>
+        <position>Developer</position>
+        <employee_type>hourly</employee_type>
+        <hourly_rate>25.50</hourly_rate>
+        <monthly_rate>4000</monthly_rate>
+    </employee>
+    <!-- More employee records -->
+</employees>
